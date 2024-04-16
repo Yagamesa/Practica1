@@ -1,0 +1,11 @@
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.deps.json
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.dll
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\bin\Debug\net8.0\mvcProyectoWeb.Utilidades.pdb
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.AssemblyInfoInputs.cache
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.AssemblyInfo.cs
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.dll
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\refint\mvcProyectoWeb.Utilidades.dll
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\mvcProyectoWeb.Utilidades.pdb
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Utilidades\obj\Debug\net8.0\ref\mvcProyectoWeb.Utilidades.dll

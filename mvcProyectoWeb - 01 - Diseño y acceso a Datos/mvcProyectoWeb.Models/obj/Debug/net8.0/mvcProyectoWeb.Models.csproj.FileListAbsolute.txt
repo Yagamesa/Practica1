@@ -1,0 +1,11 @@
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcProyectoWeb.Models.deps.json
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcProyectoWeb.Models.dll
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Models\bin\Debug\net8.0\mvcProyectoWeb.Models.pdb
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.AssemblyInfoInputs.cache
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.AssemblyInfo.cs
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.csproj.CoreCompileInputs.cache
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.dll
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Models\obj\Debug\net8.0\refint\mvcProyectoWeb.Models.dll
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Models\obj\Debug\net8.0\mvcProyectoWeb.Models.pdb
+C:\Users\sebastian\Desktop\Programacion WebII\ProyectoMVC\DesarrolloWebII-main\mvcProyectoWeb - 01 - Diseño y acceso a Datos\mvcProyectoWeb.Models\obj\Debug\net8.0\ref\mvcProyectoWeb.Models.dll
